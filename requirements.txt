@@ -5,3 +5,5 @@ pytesseract
 easyocr
 pdfplumber
 pypdf
+sympy
+scikit-image
