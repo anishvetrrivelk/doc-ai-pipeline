@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Large binary files (avoid Git LFS)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# OS files
+.DS_Store
+
+# Model weights (optional)
+models/*
